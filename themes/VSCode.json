@@ -1,0 +1,21 @@
+{
+    "name": "VS Code",
+    "background": "#1E1E1E",
+    "foreground": "#D4D4D4",
+    "brightBlack": "#666666",
+    "brightBlue": "#569cd6",
+    "brightCyan": "#9cdcfe",
+    "brightGreen": "#b5cea8",
+    "brightPurple": "#daadd6",
+    "brightRed": "#f14c4c",
+    "brightWhite": "#e5e5e5",
+    "brightYellow": "#DCDCAA",
+    "black": "#000000",
+    "blue": "#2472c8",
+    "cyan": "#11a8cd",
+    "green": "#6a9955",
+    "purple": "#C586C0",
+    "red": "#cd3131",
+    "white": "#e5e5e5",
+    "yellow": "#CE9178"
+}
